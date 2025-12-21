@@ -1,4 +1,4 @@
-# CFM-101
+# CFM-101 Robo Advisor
 Low-Volatility Portfolio Construction Engine
 
 Designed to engineer a "Risk-Free" equity portfolio. This tool utilizes Python and Yahoo Finance data to algorithmically select stocks that minimize volatility, beta exposure, and absolute returns, effectively simulating a capital preservation strategy.
